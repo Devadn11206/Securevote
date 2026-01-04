@@ -1,0 +1,5 @@
+{
+  "name": "SecureVote EVS",
+  "description": "A fully accessible, secure, and locally-runnable electronic voting system with real-time admin monitoring and assistive voting interfaces.",
+  "requestFramePermissions": []
+}
